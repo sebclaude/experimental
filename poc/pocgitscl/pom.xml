@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>git</finalName>
+    <finalName>pocgitscl</finalName>
   </build>
 </project>
